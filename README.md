@@ -1,5 +1,5 @@
 # Hyborian Kings
-![HK Logo](/0_DEV/HK_Logo.png)
+![HK Logo](/0_DEV/Logo_Text.png)
 
 This is the *development version* of Hyborian Kings, a Hyborian Age Total Conversion for Crusader Kings 3.
 
