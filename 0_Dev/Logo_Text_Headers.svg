@@ -7,54 +7,54 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="Logo_Text_Headers.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Logo_Text_Headers.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <defs
      id="defs2">
     <rect
-       x="-0.40090429"
-       y="11.358955"
-       width="154.88269"
+       id="rect867"
        height="29.800552"
-       id="rect867" />
+       width="154.88269"
+       y="11.358955"
+       x="-0.40090429" />
     <rect
-       x="14.646577"
-       y="19.182292"
-       width="116.41667"
+       id="rect859"
        height="14.741071"
-       id="rect859" />
+       width="116.41667"
+       y="19.182292"
+       x="14.646577" />
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="92.269504"
-     inkscape:cy="382.13923"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-bbox="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-text-baseline="true"
-     inkscape:window-width="2491"
-     inkscape:window-height="1417"
-     inkscape:window-x="-8"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1417"
+     inkscape:window-width="2491"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="397.19829"
+     inkscape:cx="107.59498"
+     inkscape:zoom="3.959798"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -68,73 +68,73 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <text
-       xml:space="preserve"
-       style="font-size:13.3669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke:#9b7f55;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="20.873001"
-       y="32.758896"
-       id="text835"
+       inkscape:export-ydpi="216.28152"
        inkscape:export-xdpi="216.28152"
-       inkscape:export-ydpi="216.28152"><tspan
-         sodipodi:role="line"
-         id="tspan833"
-         x="20.873001"
-         y="32.758896"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3669px;font-family:Crom;-inkscape-font-specification:Crom;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"><tspan
-   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-   id="tspan837">H</tspan>yborian <tspan
-   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-   id="tspan853">K</tspan>ings</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text857"
-       style="font-family:sans-serif;font-size:3.90628006px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:sans-serif;writing-mode:lr;white-space:pre;shape-inside:url(#rect859);" />
-    <text
-       xml:space="preserve"
-       id="text865"
-       style="font-family:sans-serif;font-size:3.90628006px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:sans-serif;writing-mode:lr;white-space:pre;shape-inside:url(#rect867);" />
-    <text
-       id="text835-0"
-       y="48.822884"
+       id="text835"
+       y="32.758896"
        x="20.873001"
-       style="font-size:13.3669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke:#9b7f55;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-xdpi="290.31915"
-       inkscape:export-ydpi="290.31915"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3669px;font-family:Crom;-inkscape-font-specification:Crom;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         y="48.822884"
-         x="20.873001"
-         id="tspan833-8"
-         sodipodi:role="line"><tspan
-   id="tspan837-3"
-   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">P</tspan>atch <tspan
-   id="tspan853-8"
-   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">N</tspan>otes</tspan></text>
-    <text
-       inkscape:export-ydpi="415.88779"
-       inkscape:export-xdpi="415.88779"
-       id="text835-6"
-       y="108.51302"
-       x="27.488335"
        style="font-size:13.3669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke:#9b7f55;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3669px;font-family:Crom;-inkscape-font-specification:Crom;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         y="108.51302"
-         x="27.488335"
-         id="tspan833-1"
+         y="32.758896"
+         x="20.873001"
+         id="tspan833"
          sodipodi:role="line"><tspan
-           id="tspan837-2"
-           style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">HK</tspan></tspan></text>
-    <circle
-       inkscape:export-ydpi="415.88779"
+   id="tspan837"
+   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">H</tspan>yborian <tspan
+   id="tspan853"
+   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">K</tspan>ings</tspan></text>
+    <text
+       style="font-family:sans-serif;font-size:3.90628006px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:sans-serif;writing-mode:lr;white-space:pre;shape-inside:url(#rect859);"
+       id="text857"
+       xml:space="preserve" />
+    <text
+       style="font-family:sans-serif;font-size:3.90628006px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:sans-serif;writing-mode:lr;white-space:pre;shape-inside:url(#rect867);"
+       id="text865"
+       xml:space="preserve" />
+    <text
+       inkscape:export-ydpi="290.31915"
+       inkscape:export-xdpi="290.31915"
+       xml:space="preserve"
+       style="font-size:13.3669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke:#9b7f55;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="20.873001"
+       y="48.822884"
+       id="text835-0"><tspan
+         sodipodi:role="line"
+         id="tspan833-8"
+         x="20.873001"
+         y="48.822884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3669px;font-family:Crom;-inkscape-font-specification:Crom;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"><tspan
+   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+   id="tspan837-3">P</tspan>atch <tspan
+   style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+   id="tspan853-8">N</tspan>otes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke:#9b7f55;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="27.488335"
+       y="108.51302"
+       id="text835-6"
        inkscape:export-xdpi="415.88779"
-       r="15.422853"
-       cy="102.38431"
-       cx="41.057667"
+       inkscape:export-ydpi="415.88779"><tspan
+         sodipodi:role="line"
+         id="tspan833-1"
+         x="27.488335"
+         y="108.51302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3669px;font-family:Crom;-inkscape-font-specification:Crom;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"><tspan
+           style="font-size:20.0505px;stroke:#9b7f55;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="tspan837-2">HK</tspan></tspan></text>
+    <circle
+       style="fill:none;stroke:#9b7f55;stroke-width:0.762689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path866"
-       style="fill:none;stroke:#9b7f55;stroke-width:0.424264;stroke-linecap:round;stroke-linejoin:round" />
+       cx="40.957439"
+       cy="102.38431"
+       r="15.683779"
+       inkscape:export-xdpi="415.88779"
+       inkscape:export-ydpi="415.88779" />
   </g>
 </svg>
