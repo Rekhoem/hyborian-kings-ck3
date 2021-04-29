@@ -16,14 +16,17 @@ seasons = "seasons.txt"
 #############
 # SEA ZONES
 #############
+sea_zones = LIST { 10 }
 
 ###############
 # MAJOR RIVERS
 ###############
+#river_provinces = LIST {  }
 
 ########
 # LAKES
 ########
+#lakes = LIST {  }
 
 #####################
 # IMPASSABLE TERRAIN
