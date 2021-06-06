@@ -13,7 +13,7 @@ western_hyborean_group = {
 		color = { 0.1 0.1 0.6 }
 
 		male_names = {
-			Marelll Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
+			Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
 			Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
 			Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
 			Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
