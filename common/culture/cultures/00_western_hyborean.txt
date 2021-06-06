@@ -1,0 +1,409 @@
+western_hyborean_group = {
+    
+	graphical_cultures = {
+		frankish_group_coa_gfx
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	aquilonian = {
+		
+		color = { 0.1 0.1 0.6 }
+
+		male_names = {
+			Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
+			Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
+			Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
+			Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
+			Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn Vulvari
+			Waltgaud Werinbert Wilbert Willichar Wolfari Andrea Angelo Annibale Anselmo Antonino Antonio Antoniotto Arcibaldo
+			Arderico Armando Arnolfo  Arrigo Arsenio Artemio Ascanio Astorre Atenolfo Attilio
+			Augusto Aurelio Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino Barnaba
+			Bartolomeo Basilio Bassiano Basso Battista Beltrano Benedetto Benvenuto Berardo BernabO_
+			Bernardo Berto Bertoldo Biagio Bonaventura Bonifacio Borso Bruno Bruto Buonconte
+			Buoso Callisto Camillo Candido Cangrande Carlo Cassio Castore Cataldo Catone
+			Cecco Cesare Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Comita Conone
+			Cornelio Corradino Corrado Cosimo Cosma Costante Costantino Costanzo Cristoforo Damiano
+			Davide Demetrio Dioniso DomE_nico Durante Eduardo Elio Emmanuele Ennio Enrico
+			Enzio Enzo Ercole Eriprando Ermenegildo Ettore Eugenio Ezio Ezzelino Fabrizio Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelian Aurelius
+			Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine
+			Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian
+			Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus Gratian Hadrian Herculius Honorius
+		}
+
+		female_names = {
+			Elisa Elisabetta Ermenegilda Eudossia Eugenia Fausta Felicia
+			Felicita Filippa Filomena Flavia Flora Fortunata Fosca Francesca Froizza Giacinta
+			Ginevra Giovanna Giuditta Giulia Giuseppa Ippolita Isabella Joscella Laura Lavinia
+			Leonide Letizia Lidia Livia Lodovica Lucia Lucinetta Lucrezia Maddalena Marcella
+			Margherita Maria Mariana Marietta Martina Matilda Micaela Nunzia Paola Patrizia
+			Renata Ricciarda Silvana Sofia Stefania Tiziana Tomasina Valentina Violante Virginia Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis
+			Anstrude Arsindis Audofleda Audovera Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
+			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
+			Dagena Eldesendis Adelaide Adele Adelin Adelise Agnes Alberada Alienora Aline Alisce Alison Amburga Aubrey Aveis Avelina Berengaria
+			Busilla Clarimond Clemenza Constance Cundo Egelina Eleanor Elise Elysande Emelenine Emma Emonie Eremberga Ermyntrude
+			Felicia Flandina Fredesende Fressenda Fressende Geva Giselle Gohilde Griselda Gundred Hadwis Helewisa Heria Herleve Hermessent Hermine Hugolina
+			Ida  Judit Lesceline Mabel Marie Matheode Matilda Maud Mautild Maysant Millicent Muriella Oriel Richenda
+			Rosalind Selova Stephanie Sibyl Sibylla Umfreda Valdrade Wilmot Yolanda Yvon
+		}
+
+		ethnicities = {
+			10 = caucasian_blond
+			5 = caucasian_ginger
+			45 = caucasian_brown_hair
+			35 = caucasian_dark_hair
+		}
+	}
+
+
+	nemedian = {
+		color = { 0.5 0.5 0.5 }
+		
+		used_for_random = no
+
+		cadet_dynasty_names = {
+			{ "dynn_Amaling" }
+			{ "dynn_Hasding" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Amaling" }
+			{ "dynn_Hasding" }
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_von" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bonen" }
+			{ "dynnp_van" "dynn_Sulzbach" }
+			{ "dynnp_van" "dynn_Wassemberg" }
+			{ "dynnp_van" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bergh" }
+			{ "dynnp_van" "dynn_Brabant" }
+			{ "dynnp_van" "dynn_Namen" }
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_van" "dynn_Heinsberg" }
+			"dynn_De_Graeff"
+			{ "dynnp_van" "dynn_Susa" }
+			"dynn_Groth"
+			{ "dynnp_van" "dynn_Egmond" }
+			{ "dynnp_van" "dynn_Amstel" }
+			{ "dynnp_van" "dynn_Arkel" }
+			{ "dynnp_van" "dynn_Boutershem" }
+			{ "dynnp_van" "dynn_Brederode" }
+			{ "dynnp_van" "dynn_Brunesheim" }
+			{ "dynnp_van" "dynn_Breda" }
+			{ "dynnp_van" "dynn_Heemskerk" }
+			{ "dynnp_van" "dynn_Gaveren" }
+			{ "dynnp_van" "dynn_Glymes" }
+			{ "dynnp_van" "dynn_Grimberghe" }
+			{ "dynnp_van" "dynn_Hurne" }
+			{ "dynnp_van" "dynn_Renesse" }
+			{ "dynnp_van" "dynn_Wesemael" }
+			{ "dynnp_van" "dynn_Wassenaer" }
+			{ "dynnp_van" "dynn_Rheden" }
+			{ "dynnp_van" "dynn_Bronckhorst" }
+			{ "dynnp_van" "dynn_Keppel" }
+			{ "dynnp_van" "dynn_Voorst" }
+			{ "dynnp_van" "dynn_Lathum" }
+			{ "dynnp_van" "dynn_Swane" }
+			{ "dynnp_van" "dynn_Wisch" }
+			{ "dynnp_van" "dynn_Kamerijk" }
+			"dynn_Cirksena"
+			{ "dynnp_van" "dynn_Visquard" }
+			{ "dynnp_van" "dynn_Groothusen" }
+			{ "dynnp_van" "dynn_Cuijck" }
+			{ "dynnp_van" "dynn_Bierum" }
+			{ "dynnp_van" "dynn_Rhenen" }
+			{ "dynnp_van" "dynn_Are" }
+			{ "dynnp_van" "dynn_Randerath" }
+			{ "dynnp_van" "dynn_Sierck" }
+			{ "dynnp_van" "dynn_Berthout" }
+			{ "dynnp_van" "dynn_Diest" }
+			{ "dynnp_van" "dynn_Voorne" }
+			{ "dynnp_van" "dynn_Naaldwijk" }
+			{ "dynnp_de" "dynn_Moravia" }
+			{ "dynnp_van" "dynn_Yperen" }
+			{ "dynnp_van" "dynn_Zeeland" }
+			"dynn_Munthe"
+			"dynn_Mard-e_Koochak"
+			"dynn_Hoving"
+			"dynn_Kuiper"
+		}
+
+		male_names = {
+			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Aldrich
+			Alois Amadeus Amalrich Andreas Anselm Arnold Arnulf Augustin Baldarich
+			Baldewin Baldomar Baldur Berengar Bernhard Berthold Burchard Christopher
+			Dieter Dietmar Dietpold Dietrich Dietwin Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich
+			Emich Emmerich Emund Engelbert Erich Ernst Ferdinand Filibert Folkhard Folkmar Franz Friedrich
+			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk
+			Gotzelo Guntram Gunzelin GU_nther Hans Hartmann Hartwig Heinrich Helferich Heribert Hermann Hesso
+			Hugo Humbert Hupold Jakob Johann JU_rgen Karl Karlmann Kaspar Konrad Kuno
+			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
+			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Nikolaus Norbert
+			Otto Peter Philipp Poppo Radbot Reinhard Reinhold Rudolf Ruprecht Rutger Siegfried
+			Sieghard Siegmund Sigismund Simon Stefan Theodorich Thietmar Thomas
+			Udalrich Ulrich Viktor Waldemar Walram Walther Welf Wenzel Werner Wido
+			Wigerich Wilhelm Wolfgang Wolfram
+		}
+		female_names = {
+			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie Barbara
+			Beatrix Benedicta Berchte Berta Binhilde Brunhilde Cecilie Christine
+			Cothilda Dorothea Elisabeth Emma Engeltraud Ermengard Eufemia
+			Frida Friedrica Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
+			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard Ida Ilsa Inga
+			Ingeltrude Irmele Irmeltrud Irmgard Isentrude Jutta Karlotte Katharina Klara
+			Klementia Konstanze Kriemhild Kunigunde Luitgard Margarete Maria
+			Mechthild Oda Osterhild Richara Richenza Richwara Romilda Serhilda Sofie Sybille Trude
+			Ulrike Ursula Ute Walpurga Wilhelmina Winfrida Wulfhilde
+		}
+		dynasty_of_location_prefix = "dynnp_von"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		patronym_suffix_male = "dynnpat_suf_son"
+		patronym_suffix_female = "dynnpat_suf_son"
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+		}
+	}
+
+	gaelic = {
+		graphical_cultures = {
+			scottish_coa_gfx
+		}
+		ethnicities = {
+			5 = caucasian_blond
+			30 = caucasian_ginger
+			35 = caucasian_brown_hair
+			30 = caucasian_dark_hair
+		}
+		
+		color = hsv { 0.50 0.90 0.57 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_a_" "dynn_Phearsain" }
+			{ "dynnp_a" "dynn_Baidenaich" }
+			{ "dynnp_a" "dynn_Cairge" }
+			{ "dynnp_a" "dynn_DU_in_Chaillden" }
+			{ "dynnp_a" "dynn_GabrA_in" }
+			{ "dynnp_a" "dynn_hE_rinn" }
+			{ "dynnp_a" "dynn_hInberuraid" }
+			{ "dynnp_a" "dynn_Lemnain" }
+			{ "dynnp_a" "dynn_Monid-TE_daich" }
+			{ "dynnp_a" "dynn_ScO_ine" }
+			{ "dynnp_a" "dynn_Sratha_Balgaid" }
+			{ "dynnp_an" "dynn_Dorsair" }
+			{ "dynnp_mac" "dynn_Aillein" }
+			{ "dynnp_na" "dynn_Ceardadh" }
+			dynn_A__Mhaoirne
+			dynn_BairE_ad
+			dynn_Breitheamh
+			dynn_Caimbeul
+			dynn_Cataibh
+			dynn_Ceanadach
+			dynn_Ceitein
+			dynn_Cormaig
+			dynn_Donnchaid
+			dynn_Gallaibh
+			dynn_Glaschu
+			dynn_Grannd
+			dynn_Lachlainn
+			{ "dynnp_mac" "dynn_a__Chruiteir" }
+			{ "dynnp_mac" "dynn_a__Phearsain" }
+			{ "dynnp_mac" "dynn_A_egusa" }
+			{ "dynnp_mac" "dynn_Adaim" }
+			{ "dynnp_mac" "dynn_Alaxandair" }
+			{ "dynnp_mac" "dynn_Amhlaigh" }
+			{ "dynnp_mac" "dynn_Amlaigh" }
+			{ "dynnp_mac" "dynn_Arailt" }
+			{ "dynnp_mac" "dynn_Bethain" }
+			{ "dynnp_mac" "dynn_Cainnig" }
+			{ "dynnp_mac" "dynn_CennE_tig" }
+			{ "dynnp_mac" "dynn_Coistela" }
+			{ "dynnp_mac" "dynn_Domnaill" }
+			{ "dynnp_mac" "dynn_Donnchada" }
+			{ "dynnp_mac" "dynn_Dubgaill" }
+			{ "dynnp_mac" "dynn_Dubgaill" }
+			{ "dynnp_mac" "dynn_DubSithe" }
+			{ "dynnp_mac" "dynn_EO_gain" }
+			{ "dynnp_mac" "dynn_EO_in_Duib" }
+			{ "dynnp_mac" "dynn_Fergusa" }
+			{ "dynnp_mac" "dynn_FindlA_ich" }
+			{ "dynnp_mac" "dynn_FinnagA_in" }
+			{ "dynnp_mac" "dynn_Gille-FA_elain" }
+			{ "dynnp_mac" "dynn_Gillebrath" }
+			{ "dynnp_mac" "dynn_Gillepatraig" }
+			{ "dynnp_mac" "dynn_Ilwham" }
+			{ "dynnp_mac" "dynn_in_Baird" }
+			{ "dynnp_mac" "dynn_in_Rothaich" }
+			{ "dynnp_mac" "dynn_in_Toisich" }
+			{ "dynnp_mac" "dynn_in_tSagairt" }
+			{ "dynnp_mac" "dynn_LE_oit" }
+			{ "dynnp_mac" "dynn_NE_ill" }
+			{ "dynnp_mac" "dynn_Ragnaill" }
+			{ "dynnp_mac" "dynn_Ruaidri" }
+			{ "dynnp_mac" "dynn_Torfinn" }
+			{ "dynnp_mac" "dynn_Uchtraigh" }
+			{ "dynnp_mac" "dynn_Uilleim" }
+			dynn_Machair
+			dynn_Madethyn
+			dynn_Muireadhach
+			dynn_Na_Rannaibh
+			dynn_Neacail
+			dynn_SdI_bard
+			dynn_Sgain
+			dynn_Siorrachd
+			dynn_Somhairle
+			dynn_Srath_Nid
+		}
+
+		dynasty_names = {
+			{ "dynnp_a_" "dynn_Phearsain" }
+			{ "dynnp_a" "dynn_Baidenaich" }
+			{ "dynnp_a" "dynn_Cairge" }
+			{ "dynnp_a" "dynn_DU_in_Chaillden" }
+			{ "dynnp_a" "dynn_GabrA_in" }
+			{ "dynnp_a" "dynn_hE_rinn" }
+			{ "dynnp_a" "dynn_hInberuraid" }
+			{ "dynnp_a" "dynn_Lemnain" }
+			{ "dynnp_a" "dynn_Monid-TE_daich" }
+			{ "dynnp_a" "dynn_ScO_ine" }
+			{ "dynnp_a" "dynn_Sratha_Balgaid" }
+			{ "dynnp_an" "dynn_Dorsair" }
+			{ "dynnp_mac" "dynn_Aillein" }
+			{ "dynnp_na" "dynn_Ceardadh" }
+			dynn_A__Mhaoirne
+			dynn_BairE_ad
+			dynn_Breitheamh
+			dynn_Caimbeul
+			dynn_Cataibh
+			dynn_Ceanadach
+			dynn_Ceitein
+			dynn_Cormaig
+			dynn_Donnchaid
+			dynn_Gallaibh
+			dynn_Glaschu
+			dynn_Grannd
+			dynn_Lachlainn
+			{ "dynnp_mac" "dynn_a__Chruiteir" }
+			{ "dynnp_mac" "dynn_a__Phearsain" }
+			{ "dynnp_mac" "dynn_A_egusa" }
+			{ "dynnp_mac" "dynn_Adaim" }
+			{ "dynnp_mac" "dynn_Alaxandair" }
+			{ "dynnp_mac" "dynn_Amhlaigh" }
+			{ "dynnp_mac" "dynn_Amlaigh" }
+			{ "dynnp_mac" "dynn_Arailt" }
+			{ "dynnp_mac" "dynn_Bethain" }
+			{ "dynnp_mac" "dynn_Cainnig" }
+			{ "dynnp_mac" "dynn_CennE_tig" }
+			{ "dynnp_mac" "dynn_Coistela" }
+			{ "dynnp_mac" "dynn_Domnaill" }
+			{ "dynnp_mac" "dynn_Donnchada" }
+			{ "dynnp_mac" "dynn_Dubgaill" }
+			{ "dynnp_mac" "dynn_Dubgaill" }
+			{ "dynnp_mac" "dynn_DubSithe" }
+			{ "dynnp_mac" "dynn_EO_gain" }
+			{ "dynnp_mac" "dynn_EO_in_Duib" }
+			{ "dynnp_mac" "dynn_Fergusa" }
+			{ "dynnp_mac" "dynn_FindlA_ich" }
+			{ "dynnp_mac" "dynn_FinnagA_in" }
+			{ "dynnp_mac" "dynn_Gille-FA_elain" }
+			{ "dynnp_mac" "dynn_Gillebrath" }
+			{ "dynnp_mac" "dynn_Gillepatraig" }
+			{ "dynnp_mac" "dynn_Ilwham" }
+			{ "dynnp_mac" "dynn_in_Baird" }
+			{ "dynnp_mac" "dynn_in_Rothaich" }
+			{ "dynnp_mac" "dynn_in_Toisich" }
+			{ "dynnp_mac" "dynn_in_tSagairt" }
+			{ "dynnp_mac" "dynn_LE_oit" }
+			{ "dynnp_mac" "dynn_NE_ill" }
+			{ "dynnp_mac" "dynn_Ragnaill" }
+			{ "dynnp_mac" "dynn_Ruaidri" }
+			{ "dynnp_mac" "dynn_Torfinn" }
+			{ "dynnp_mac" "dynn_Uchtraigh" }
+			{ "dynnp_mac" "dynn_Uilleim" }
+			dynn_Machair
+			dynn_Madethyn
+			dynn_Muireadhach
+			dynn_Na_Rannaibh
+			dynn_Neacail
+			dynn_SdI_bard
+			dynn_Sgain
+			dynn_Siorrachd
+			dynn_Somhairle
+			dynn_Srath_Nid
+		}
+
+		male_names = {
+			Aaron AbbA_n Abner AbE_l AdomnA_n A_ed A_edgen A_educA_n A_edA_n A_engus Affiath Ailbe Ailbrend Ailbrenn AilchU_ Aildobur Ailgel A_ilgenA_n Ailgus
+			Ailill AilpI_n Ainbchellach A_indle Ainftech Ainmere Airechtach AirfhindA_n AirfhinnA_n Airleid Airmedach Amalgaid AmlaI_b AnfudA_n AnlO_n Anmchaid A_nrothA_n Ardgal
+			Ardgar Art Artbran Artgal Artgus ArtucA_n ArtU_r Assiucc Augaire AugustI_n Aurthuile BA_ethgalach BA_ethI_ne BA_etA_n BE_oA_ed Barrfhind BeccA_n Berrach BhA_tair
+			Blathmacc Bran Brandub Brangen Bressal Brian BriccE_ne BriccI_ne BroccA_n Bruatur Bruide BrE_naind BrE_nainn BrO_en BU_aidbE_o Caicher Cailech Cailte Cairbre
+			Cairell CaissE_ne CaissI_n Gyrth Hacon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Hrodberht InwE_r Leofheah Leofhelm
+			Leofric Leofweald Leofwine Maccus Morcar ME_rleswegn Offa Onlaf Ordgar
+			Oscytel Oshere Osmund Osric OsrE_d Osulf Osweald Oswine Oswulf Petre RE_dwulf RE_genweald Scule
+			Sigeberht Sigehelm Sigeric SigerE_d Sighere Siweard Stigand Swegn Swithelm SwithrE_d SwE_frE_d SE_bert SE_lrE_d SE_weald
+			SE_xbald SE_xrE_d ThorE_d Thurcytel Thurfrith Tostig UhtrE_d Ulf Ulfcytel Waltheof Werestan Wiglaf WihtrE_d
+			Wistan Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere WulfmE_r Wulfnoth Wulfstan E_lfgar E_lfmE_r E_lfnoth E_lfric E_lfrE_d E_lfsige
+			E_lfstan E_lfwald E_lfweard E_lfwig E_lfwine E_lle E_thelbald E_thelberht E_thelfrith E_thelhere E_thelmE_r
+			E_thelric E_thelrE_d E_thelsige E_thelstan E_thelweald E_thelweard E_thelwine E_thelwold E_thelwulf
+			Eormenred Eorcenberht Eormenric Eadbald RE_dwald CA_emA_n CO_elbad CO_elub CO_emA_n CU_-Allaid CU_-Bretan CU_-Caech CU_-Cen CU_-Cen-MA_thair CU_-CU_arA_in CU_-Gamna CU_-RoI_ CU_anu CU_ldub CU_A_n
+			CU_A_nA_n DabI_d Daigre Dalbach DallA_n DaniE_l Dathal Dathgus DemmA_n Drystan Diarmait Doedgus Domangart Domnall Donn Donnchad Donncuan DonndubA_n Donngal
+			DonnucA_n DoE_lgus Drost Drust Dub-dA_-Lethe Dubcenn Dubgenn Dubh Dubhghall Dubhglais Dubthach DubA_ed DubA_n Duib Duiblesc Duibne DunA_ed DA_lach DI_cuill DI_glach DI_mmae
+			DI_mmasach DI_mmA_n DI_nertach DU_nacA_n DU_nadach DU_nchad DU_ngal DU_ngalach DU_nlang E_amonn Echmarcach E_chtgal E_chtgus Echthigern Echuid E_icnech E_icnechA_n ElA_ir E_nna E_nri E_ochad
+			Eochaid Eochu EochucA_n E_ogan Erc Ercaid ErcA_ed ErcA_n E_remO_n E_rennach ErnA_n EterscE_l EO_gan EO_ganA_n Fachtna Fairchellach Fallaman FarannA_n FaI_lbe Fearghus	
+		}
+		female_names = {
+			Ablach A_edammair Affraic AI_binn AibilI_n Aileann A_ine Anlaith Anleta ArO_c Barrdub Ben-Laigen Ben-MI_de Ben-Muman Ben-Ulad Brigit  BE_-FA_il BE_binn Cacht Caillech-FhinnE_in
+			Cainnech CaissE_ne CaitilI_n CaI_ntigern CaI_rech CathA_n CatrI_ona Cellach Ciar Cnes Coblaith Cobflaith Conchenn CondA_l CrI_nO_ch CrI_stina Cumman
+			Deirdre Der-bForgaill Agatha Balthild BeorhtflE_d Beorhtgifu Beorhtgyth Beorhtwaru Beorhtwynn BeornflE_d Beorngyth BlE_ja BurgflE_d CeolflE_d Cristina
+			Cuthburg Cwenburg Cyneburg Cynegyth Cynehild Cyneswith Cynethryth Eadburg EadflE_d Eadgifu Eadgyth Eadhburh Eadhild Ealdgyth
+			EalhflE_d Ealhswith Eanswith Ecgfrida Ecgwyn Godgifu Gunhilda Gytha Helga Heregyth Hereswith Hextilda Hungifu Judith
+			LeofflE_d Leofgifu Leofrun Leofwaru Leofwynn Margaret Maud Mildrith Octreda SifflE_d Sigrid SE_thryth WulfflE_d Wulfgifu
+			Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn WynnflE_d WE_rburg E_bba E_lfflE_d E_lfgifu E_lfgyth E_lflE_da E_lfrida
+			E_lfswith E_lfthryth E_lfwynn E_thelburg E_thelflE_d E_thelgifu E_thelhild E_thelrE_da E_thelswith E_thelthryth
+			E_thelburh Seaxburh Wihtburh DerbA_il Derborgaill Der-Ilei Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla DU_insech DU_nlaith Echrad E_ibhleann
+			Eilionora Eithne EllbrI_g Emer E_taI_n E_ua Euginia FaI_lenn Fedelm Finneacht Finnguala Flann Forbflaith FI_ne Garb Gormuil GelgE_is GerrO_c Gnathnad Gormflaith
+			Gormlaith GrA_inne Imag I_te Lann LasairfI_ona Lathir Lerben Lerthan LI_gach Lucia Martha Mauda Muadhnait Muirenn Muirgel Muirne MA_el-Mide
+			MA_el-Muire MA_ire MA_iread MA_irgred MO_r MO_r-Muman NA_rbflaith Nuala O_rlaith O_rnat RO_is Sadb Samthann ScA_thach SE_bdann Selblaith Seonaid Sinech SiobA_n
+			Sisuile SlA_I_ne Sorcha Suaibsech SA_erlaith SE_tach SI_thmaith Tailefhlaith Tailltiu Temair Tuathflaith TO_mnat Uallach Uasal U_na
+		}
+		
+		patronym_prefix_male = "dynnpat_pre_Mac"
+		patronym_prefix_female = "dynnpat_pre_Mac"
+		dynasty_of_location_prefix = "dynnp_a"
+		prefix = yes
+		
+		always_use_patronym = yes	
+
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+
+		mercenary_names = {
+			{ name = mercenary_company_gallowglasses }
+			{ name = mercenary_company_redshanks }
+		}
+	}
+
+}
