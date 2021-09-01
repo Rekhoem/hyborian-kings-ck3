@@ -5,5 +5,6 @@
 	generated_content=no
 	layer="lake_layer"
 	pdxmesh="lake_mesh"
-	count=0
-	}
+	count=1
+	transform="4314.886719 0.000000 1439.160156 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
