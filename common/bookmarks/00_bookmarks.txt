@@ -1,4 +1,4 @@
-﻿bm_2000_test = {
+﻿bm_1000_test = {
 	start_date = 1000.1.1
 	is_playable = yes
 
@@ -10,8 +10,8 @@
 		birth = 980.1.1
 		title = k_test
 		government = feudal_government
-		culture = test_culture
-		religion = test_faith
+		culture = testish
+		religion = testism
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 6000000
 		position = { 765 590 }
