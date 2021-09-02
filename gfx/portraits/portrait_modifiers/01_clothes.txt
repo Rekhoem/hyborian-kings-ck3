@@ -37,8 +37,7 @@ clothes = {
         weight = {
             base = 0
         }
-	}
-	
+    }
 	ruler_designer_clothes = {
         dna_modifiers = {
             accessory = {

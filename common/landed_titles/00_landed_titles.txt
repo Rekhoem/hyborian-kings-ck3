@@ -13,7 +13,7 @@ e_test = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = culture:greek
+				culture = culture:testish
 			}
 			add = @correct_culture_primary_score
 		}
@@ -28,7 +28,7 @@ e_test = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:greek
+					culture = culture:testish
 				}
 				add = @correct_culture_primary_score
 			}
