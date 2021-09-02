@@ -41,8 +41,10 @@ object={
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="building_special_mines_mesh"
-	count=0
-}
+	count=2
+	transform="626.551331 0.000000 1985.589966 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1066.048584 0.000000 1890.552979 0.000000 0.447082 0.000000 0.894493 1.000000 1.000000 1.000000
+"}
 object={
 	name="special_brihadeeswarar_temple"
 	clamp_to_water_level=no

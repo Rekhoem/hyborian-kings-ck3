@@ -1,9 +1,10 @@
 ﻿object={
 	name="bridge 01"
-	clamp_to_water_level=no
+	clamp_to_water_level=yes
 	render_under_water=yes
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="bridge_01_mesh"
-	count=0
-}
+	count=1
+	transform="672.428650 0.000000 1938.183960 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
